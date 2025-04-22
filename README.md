@@ -28,9 +28,6 @@ Download the recovery toolkit here:
 
 For alternative download options, check our Releases section.
 
-🌍 Additional Resources
-Visit our knowledge base for detailed guides:
-🌐 CryptoRecoveryHub.com
 
 🔐 Security Notice
 ⚠ Use responsibly - only attempt to recover wallets you legally own
